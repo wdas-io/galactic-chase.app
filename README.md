@@ -1,2 +1,3 @@
-# GalacticChase
+# Galactic Chase
+
 Galactic Chase Remake
